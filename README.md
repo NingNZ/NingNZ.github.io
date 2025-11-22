@@ -8,7 +8,7 @@
 我将在这里随便涂涂写写
 
 ## From
-来源于https://github.com/Yixin0313/personal-homepage-template的通用个人网页模版
+来源于"https://github.com/Yixin0313/personal-homepage-template"的通用个人网页模版
 
 ## License
 本项目基于 MIT 许可协议，你可以自由使用和修改此模板。 Yixin Huang 2025年2月7号
